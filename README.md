@@ -1,2 +1,2 @@
 # Curriculum_Vitae
-Personal CV
+Personal CV and some stuff about me

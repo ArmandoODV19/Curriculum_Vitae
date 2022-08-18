@@ -28,7 +28,9 @@ library(vitae)
 library(tibble)
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "General Practitioner", "2012-2019", "Universidad Autonoma del Estado de Morelos", "Morelos, Mexico",
+  "General Practitioner", "2012-2019", "Universidad Autonoma del Estado de Morelos", "Obtaining degree by honorable mention for the thesis “Study of the relationship, structure, 
+and function of integral proteins in platelet membranes and their influence on the 
+development of atherosclerosis in early stages; an analysis by molecular dynamics Morelos, Mexico",
   "Master of Biochemistry", "2020-2022", "Universidad Nacional Autonoma de Mexico", "Morelos, Mexico"
 ) %>% 
   detailed_entries(Degree, Year, Institution, Where)

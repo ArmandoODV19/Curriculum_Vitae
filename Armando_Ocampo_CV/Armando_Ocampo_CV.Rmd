@@ -5,7 +5,7 @@ position: "Data Scientist - General Practitioner - Ms Biochemistry"
 address: "Universidad Autónoma del Estado de Morelos, Universidad Nacional Autónoma de México"
 phone: +52 735 206 6804
 email: "armando.odelvalle19@gmail.com"
-github: armandoODV19
+github: ArmandoODV19
 linkedin: Armando Ocampo del Valle
 date: "`r format(Sys.time(), '%B %Y')`"
 output: vitae::moderncv

@@ -1,7 +1,7 @@
 ---
 name: Armando
 surname: Ocampo
-position: "Data Scientist - General Practitioner - Ms Biochemistry"
+position: "Data Analyst - General Practitioner - Ms Biochemistry"
 address: "Universidad Autónoma del Estado de Morelos, Universidad Nacional Autónoma de México"
 phone: +52 735 206 6804
 email: "armando.odelvalle19@gmail.com"
@@ -18,9 +18,14 @@ library(vitae)
 
 # Work experience
 
- * 2018-2019 Professor of mathematics and statistics.
- * 2020-2022 General Practitioner.
- * 2022 Data analyst & Data scientists, Universidad Autónoma del Estado de Morelos.
+ * 2022 Article co-author: *Long COVID in patients with rheumatologic disease: A single center observational study*, 
+DOI: 10.4103/injr.injr_118_22
+ * 2022 Management of projects in the health and nutrition area, 
+Systems Biology and Translational Medicine Laboratory
+ * 2021-2022 Data analyst & data scientists, Universidad Autónoma del Estado de Morelos.
+ * 2019-2021 General practitioner.
+ * 2018-2019 High school professor of mathematics and statistics.
+ 
 
 # Education
 
@@ -28,10 +33,11 @@ library(vitae)
 library(tibble)
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Data Analyst Certification", "2022", "DataCamp", "United States of America",
+  "Master of Biochemistry", "2020-2022", "Universidad Nacional Autonoma de Mexico", "Morelos, Mexico",
   "General Practitioner", "2012-2019", "Universidad Autonoma del Estado de Morelos", "Obtaining degree by honorable mention for the thesis “Study of the relationship, structure, 
 and function of integral proteins in platelet membranes and their influence on the 
-development of atherosclerosis in early stages; an analysis by molecular dynamics Morelos, Mexico",
-  "Master of Biochemistry", "2020-2022", "Universidad Nacional Autonoma de Mexico", "Morelos, Mexico"
+development of atherosclerosis in early stages; an analysis by molecular dynamics. Morelos, Mexico"
 ) %>% 
   detailed_entries(Degree, Year, Institution, Where)
 ```
@@ -40,6 +46,6 @@ development of atherosclerosis in early stages; an analysis by molecular dynamic
 # Some stuff about me
 
  * Languages: Spanish (native speaker), English (fluent speaker).
- * Programming languages: R, SQL.
- * Data analysis trainning.
+ * Programming languages: R, SQL, Python.
+ * Experience working with JSON and CSV data sets
  * Excel & Tableau project management

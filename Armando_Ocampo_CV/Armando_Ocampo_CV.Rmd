@@ -18,8 +18,6 @@ library(vitae)
 
 # Work experience
 
- * 2022 Article co-author: *Long COVID in patients with rheumatologic disease: A single center observational study*, 
-DOI: 10.4103/injr.injr_118_22
  * 2022 Management of projects in the health and nutrition area, 
 Systems Biology and Translational Medicine Laboratory
  * 2021-2022 Data analyst & data scientists, Universidad Autónoma del Estado de Morelos.
@@ -45,6 +43,8 @@ development of atherosclerosis in early stages; an analysis by molecular dynamic
 
 # Some stuff about me
 
+ * 2022 Article co-author: *Long COVID in patients with rheumatologic disease: A single center observational study*, 
+DOI: 10.4103/injr.injr_118_22
  * Languages: Spanish (native speaker), English (fluent speaker).
  * Programming languages: R, SQL, Python.
  * Experience working with JSON and CSV data sets

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.17)  30 DEC 2022 17:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.17)  31 JAN 2023 10:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -465,30 +465,30 @@ Overfull \hbox (76.93881pt too wide) has occurred while \output is active
  []|[] 
  []
 
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 136.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 137.
 (c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 136.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 137.
 (c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 136.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 137.
 (c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for T1+DejaVuSansMono-TLF on input line 136.
+LaTeX Font Info:    Trying to load font information for T1+DejaVuSansMono-TLF on input line 137.
 (c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/dejavu/T1DejaVuSansMono-TLF.fd
 File: T1DejaVuSansMono-TLF.fd 2011/06/01 Font definitions for T1/DejaVuSansMono-TLF.
 )
 LaTeX Font Info:    Font shape `T1/DejaVuSansMono-TLF/m/sl' in size <10.95> not available
-(Font)              Font shape `T1/DejaVuSansMono-TLF/m/it' tried instead on input line 136.
+(Font)              Font shape `T1/DejaVuSansMono-TLF/m/it' tried instead on input line 137.
 LaTeX Font Info:    Font shape `T1/DejaVuSansMono-TLF/m/it' will be
-(Font)              scaled to size 9.41699pt on input line 136.
+(Font)              scaled to size 9.41699pt on input line 137.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `DejaVuSansMono-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 136.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 137.
 (c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 136.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 137.
 
 Package fancyhdr Warning: \footskip is too small (60.0pt): 
 (fancyhdr)                Make it at least 68.00002pt, for example:
@@ -503,13 +503,13 @@ Package rerunfilecheck Info: File `Armando_Ocampo_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  15437 strings out of 479638
  278183 string characters out of 5876700
- 595106 words of memory out of 5000000
+ 597106 words of memory out of 5000000
  33659 multiletter control sequences out of 15000+600000
  522879 words of font info for 95 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,12n,79p,1014b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc}{c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}<c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/dejavu/DejaVuSansMono-Oblique.pfb><c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro10.pfb><c:/Users/Admin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro17.pfb>
-Output written on Armando_Ocampo_CV.pdf (1 page, 257425 bytes).
+Output written on Armando_Ocampo_CV.pdf (1 page, 258545 bytes).
 PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
  75 compressed objects within 1 object stream

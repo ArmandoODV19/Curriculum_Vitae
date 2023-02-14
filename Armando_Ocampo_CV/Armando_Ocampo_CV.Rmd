@@ -18,9 +18,8 @@ library(vitae)
 
 # Work experience
 
- * 2022 Management of projects in the health and nutrition area, 
+ * 2021-2022 Data analyst & management of projects in the health and nutrition area, 
 Systems Biology and Translational Medicine Laboratory
- * 2021-2022 Data analyst & data scientists, Universidad Autónoma del Estado de Morelos.
  * 2019-2021 General practitioner.
  * 2018-2019 High school professor of mathematics and statistics.
  
@@ -31,7 +30,7 @@ Systems Biology and Translational Medicine Laboratory
 library(tibble)
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "Current Master of Data and Business Analytics Student", "2022", "MIU City University", "United States of America",
+  "Current Master of Analysis and Visualization of Big Data Student", "2022", "Universidad Internacional de la Rioja", "Mexico",
   "Data Analyst Certification", "2022", "DataCamp", "United States of America",
   "Master of Biochemistry", "2020-2022", "Universidad Nacional Autonoma de Mexico", "Morelos, Mexico",
   "General Practitioner", "2012-2019", "Universidad Autonoma del Estado de Morelos", "Obtaining degree by honorable mention for the thesis “Study of the relationship, structure, 
